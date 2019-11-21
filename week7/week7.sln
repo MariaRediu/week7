@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "downloadFile", "..\download
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadNumber", "..\ReadNumber\ReadNumber.csproj", "{CF8601C6-7B03-4892-BD21-28B19EE6FCFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitArrays", "..\BitArrays\BitArrays.csproj", "{F2628812-C037-4AE6-802E-B18CBD57DE5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF8601C6-7B03-4892-BD21-28B19EE6FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8601C6-7B03-4892-BD21-28B19EE6FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8601C6-7B03-4892-BD21-28B19EE6FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2628812-C037-4AE6-802E-B18CBD57DE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2628812-C037-4AE6-802E-B18CBD57DE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2628812-C037-4AE6-802E-B18CBD57DE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2628812-C037-4AE6-802E-B18CBD57DE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
